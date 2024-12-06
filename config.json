@@ -1,0 +1,10 @@
+{
+  "spotify": {
+    "clientid": "go -> https://developer.spotify.com/",
+    "clientsecret": "go -> https://developer.spotify.com/",
+    "redirect": "http://localhost:8888/callback"
+  },
+  "playlist": {
+    "url": "https://open.spotify.com/playlist/1337?si=1337"
+  }
+}
